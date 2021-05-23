@@ -65,7 +65,7 @@ body = """
 <div dir="ltr" id="divtagdefaultwrapper" style="color:black;font-size:12pt;font-family:Calibri,Helvetica,sans-serif;">
     <div style="color:black;">
         <div dir="ltr" id="divRplyFwdMsg">
-            <font color="black" face="Calibri,sans-serif" style="font-size:11pt;"><b>From:</b> reports@ids-borjomi.com &lt;reports@ids-borjomi.com&gt;<br>
+            <font color="black" face="Calibri,sans-serif" style="font-size:11pt;"><b>From:</b> reports@my-domain.com &lt;reports@my-domain.com&gt;<br>
                 <b>Sent:</b> """+ str(time.strftime("%a, %d %b %Y %H:%M:%S")) +"""<br>
                 <b>To:</b> """ + str(emailto) + """<br>
                 <b>Cc:</b> Your row;<br>
